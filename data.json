@@ -1,0 +1,9 @@
+"book": {
+  "title": "A Tale of Two Cities",
+  "author": {"last": "Dickens", "first": "Charles"},
+  "content": "It was the best of times, it was the worst of times..",
+  "metadata_tags": {"country": "UK", "pages": "341"},
+  "category": ["FICTION"],
+  "published_date": "Date(4, 20, 1859)",
+  "language": "ENGLISH"
+}
